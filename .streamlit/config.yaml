@@ -1,0 +1,22 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: wick_analysis_cookie
+credentials:
+  usernames:
+    test:
+      email: not_required@example.com
+      name: test
+      password: $2b$12$lHIUUUYYsEeoMa5Z.UX4QOqn.giMB3mjCcVZ6tL2LptZCXk7layAO
+    test2:
+      email: not_required@example.com
+      name: test2
+      password: $2b$12$6e6YAaCV3EjRskzkITqAreCmy6WdOOYLXYJ85HXrEVFbXKH/GdPSq
+    test3:
+      email: not_required@example.com
+      name: test3
+      password: $2b$12$cpsDUizZzww0ZlX9adAqMeOK7cs3F7jSJ5iPD062aRKGKLNJRA/4O
+    testuser:
+      email: test@example.com
+      name: Test User
+      password: $2b$12$wbjvDYaxK2OopDdDhb7J..GxPgYSucC8JRRLIOvhcyXICQP4ykv2G
